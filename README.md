@@ -23,3 +23,7 @@ Check out the app! </br>
 http://group-movie-env.us-east-1.elasticbeanstalk.com/</br>
 </br>
 
+**GroupMovie Infrastructure**
+
+![image](https://user-images.githubusercontent.com/61479556/115966671-4dd96380-a4f4-11eb-910c-0e6aa6a5272e.png)
+
